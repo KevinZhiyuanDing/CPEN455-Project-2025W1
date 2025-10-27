@@ -34,7 +34,7 @@ P_\theta(Y_\text{label}|X_{\leq i}) &= \frac{P_{\theta}(X_{\leq i}|Y_\text{label
 $$
 
 Where:
-- $P_\theta(Y_\text{label}|X_{\leq i})$: Posterior probability of label $ Y_\text{label} $ given input $X_{\leq i}$
+- $P_\theta(Y_\text{label}|X_{\leq i})$: Posterior probability of label $Y_\text{label}$ given input $X_{\leq i}$
 - $P_\theta(X_{\leq i}|Y_\text{label})$: Likelihood of input $X_{\leq i}$ given label $Y_\text{label}$
 - $P_\theta(X_{\leq i},Y_\text{label})$: Joint probability of input $X_{\leq i}$ and label $Y_\text{label}$
 - $P_\theta(Y_\text{label})$: Prior probability of label $Y_\text{label}$
