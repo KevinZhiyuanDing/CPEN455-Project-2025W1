@@ -189,7 +189,7 @@ File Tree For Important Files:
 #### Leaderboard Competition (30% of total grade)
 The remaining 30% of total grade will be based on the performance among all students in this class.
 
-If you achieved N-th place, you will get $(1 - \frac{N}{\text{Number of students}}) \times 30\%$ of total grade for this part.
+If you achieved N-th place, you will get $(1 - \frac{N}{\text{Number of students}}) \times 30$ % of total grade for this part.
 
 ## Final project report guidelines
 Students are required to work on projects individually. All reports must be formatted according to the NeurIPS conference style and submitted in PDF format. The official template can be downloaded from [the NeurIPS style files page](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles). When combining the report with source code and additional results, the submission on Canvas portal should be in a zip file format.
