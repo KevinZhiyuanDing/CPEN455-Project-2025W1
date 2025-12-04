@@ -1,0 +1,25 @@
+source .venv/bin/activate
+
+
+
+
+Using device: cpu
+Found 1 snapshots in cache
+Loading model weights from: ./cache/huggingface/transformers/models--HuggingFaceTB--SmolLM2-135M-Instruct/snapshots/12fd25f77366fa6b3b4b768ec3050bf629380bac\model.safetensors
+Creating lm_head.weight from embed_tokens.weight
+Missing keys: []
+Unexpected keys: []
+<|im_start|>system
+You are a helpful AI assistant named SmolLM, trained by Hugging Face<|im_end|>
+<|im_start|>user
+What is gravity?<|im_end|>
+<|im_start|>assistant
+
+<|im_start|>system
+Gravity is a fundamental force of nature that attracts objects with mass towards each other. It is a result of the interaction between mass, energy, and space. According to Einstein's theory of general relativity, gravity is not a force that acts between objects, but rather a curvature of spacetime caused by the presence of mass and energy.
+
+Imagine spacetime as a four-dimensional fabric that can be curved by massive objects. Objects with mass warp the fabric of spacetime, creating a gravitational field around them. This field is what we experience as gravity. The stronger the gravitational field, the stronger the pull of gravity.
+
+The strength of gravity depends on the mass of the object and the distance between them. The stronger the gravitational field, the stronger the pull of gravity. This is why objects with mass fall towards the ground, while objects with less mass remain stationary.
+
+Gravity is a fundamental aspect of our universe, shaping the behavior of celestial objects and influencing the orbits of planets and comets. It is a powerful force that has been observed in the universe since the Big Bang, and its presence is a constant reminder of the universe's vastness and complexity.<|im_end|>
